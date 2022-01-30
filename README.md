@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 -->
 
 ![image](./dino.gif)
-## NEW YEAR'S GOALS: FILL IN THE BLANKS BELOW.
+## Hope all goes well in 2022.
 
 <!-- <p align="center">    Visitor count<br>   <img src="https://profile-counter.glitch.me/bat67/count.svg" /> </p> -->
